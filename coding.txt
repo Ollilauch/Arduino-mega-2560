@@ -1,0 +1,10 @@
+without IDE:
+
+avr-libc avrdude avr-biutils avr-gcc
+
+on linux -> avr-gcc
+on windows -> https://winavr.sourceforge.net/
+
+-> flash compiled C code with avrdude [https://github.com/avrdudes/avrdude]
+
+https://arduinotoavr.wordpress.com/digitalread/
